@@ -8,10 +8,10 @@
 ## About Me
 - **Student ID**: 1101046
 - **Student Name**: Li Yun
-- **Student E-mail**: [Li Yun](s1101046@mail.yzu.edu.tw)
+- **Student E-mail**: s1101046@mail.yzu.edu.tw
 
 ## Repository Purpose
 This repository stores assignments, projects, and documentation for the CI001 course.
 
 ## GitHub Pages Site
-Visit my personal website: [https://<hound2522>.github.io/](https://<hound2522>.github.io/)
+Visit my personal website: https://<hound2522>.github.io/
